@@ -1,4 +1,4 @@
-##  Olá!! Eu sou a userThaliaoliveira <3
+##  Olá!! Eu sou a userThaliaoliveira <3 programadora iniciante mas com muia dedicação a aprender
 <div align="center">
   <a href="https://github.com/userThaliaoliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=userThaliaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
