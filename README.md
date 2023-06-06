@@ -1,6 +1,4 @@
-<h1 align="center" >Olá!! Eu sou a userThaliaoliveira <3 👋</h1>
-<h3 align="center"> Programadora iniciante mas com muita dedicação a aprender</h3>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff00cc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thalía+Oliveira;I'm+21+years+old;I+from+Brasil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <h3 align="left">Citação favorita:</h3>
 <p>Acerte em tudo que puder acertar.Mas não se torture com seus erros-Paulo coelho</p>
 
@@ -34,4 +32,9 @@
 </div>
   
 ![Snake animation](https://github.com/userThaliaoliveira/userThaliaoliveira/blob/output/github-contribution-grid-snake.svg)
+
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{userThaliaoliveira}/count.svg" /></p> 
+<br></div>
 
