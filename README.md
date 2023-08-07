@@ -31,8 +31,6 @@
     <img align="right" alt="thalia-pic" height="100" style="border-radius:50px;" src="https://user-images.githubusercontent.com/96347094/147705579-1ab1a119-49bb-419e-8433-e7ff89bdab83.png">
 </div>
   
-![Snake animation](https://github.com/userThaliaoliveira/userThaliaoliveira/blob/output/github-contribution-grid-snake.svg)
-
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{userThaliaoliveira}/count.svg" /></p> 
