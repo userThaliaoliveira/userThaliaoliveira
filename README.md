@@ -31,6 +31,7 @@
 <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F">
 
 <br>
+<br>
 
 <p>
   <img width="600em" align="center" src="https://github-readme-stats.vercel.app/api?username=userThaliaoliveira&show_icons=true&locale=en&theme=synthwave" alt="userThaliaoliveira"/>
