@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/thalía-o-aaa380204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 <h3 align="left">Linguagens de Marcação e Estilo</h3>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5">
    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4">
 </div>
