@@ -22,7 +22,9 @@
       <img align="center" alt="Java" src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java">
       <img align="center" alt="Python" src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python">
 </div>
+
 <br>
+
 <h3 align="left">Bibliotecas e Frameworks</h3>
 <div style="display: inline_block">
 <img align="center" alt="React" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react">
@@ -49,4 +51,5 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{userThaliaoliveira}/count.svg" /></p> 
 <br></div>
+
 
