@@ -30,15 +30,15 @@
 
 <br>
 
-<p align="center">
+<p>
   <img width="600em" align="center" src="https://github-readme-stats.vercel.app/api?username=userThaliaoliveira&show_icons=true&locale=en&theme=synthwave" alt="userThaliaoliveira"/>
 </p>
 
-<p align="center">
+<p >
   <img width="600em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=userThaliaoliveira&theme=synthwave" alt="userThaliaoliveira" />
 </p>
 
-<p align="center"> 
+<p > 
   <img width="600em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=userThaliaoliveira&layout=compact&langs_count=7&theme=synthwave"/>
 </p>
 <div style="display: inline_block">
@@ -49,3 +49,4 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{userThaliaoliveira}/count.svg" /></p> 
 <br></div>
+
