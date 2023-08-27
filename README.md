@@ -8,14 +8,28 @@
   <a href = "Thaliaoliveira023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thalía-o-aaa380204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
-<h3 align="left">Idiomas e ferramentas:</h3>
+<h3 align="left">Linguagens de Marcação e Estilo</h3>
 <div style="display: inline_block"><br>
-  <img align="center" alt="thalia-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="thalia-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="thalia-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="thalia-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5">
+   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4">
+</div>
+<h3 align="left">Linguagens de Programação</h3>
+<div style="display: inline_block">
+    <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript">
+     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript">
+      </td>
+      <img align="center" alt="Java" src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java">
+      <img align="center" alt="Python" src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python">
 </div>
 <br>
+<h3 align="left">Bibliotecas e Frameworks</h3>
+<div style="display: inline_block">
+<img align="center" alt="React" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react">
+<img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F">
+
+<br>
+
 <p align="center">
   <img width="600em" align="center" src="https://github-readme-stats.vercel.app/api?username=userThaliaoliveira&show_icons=true&locale=en&theme=synthwave" alt="userThaliaoliveira"/>
 </p>
@@ -35,4 +49,3 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{userThaliaoliveira}/count.svg" /></p> 
 <br></div>
-
