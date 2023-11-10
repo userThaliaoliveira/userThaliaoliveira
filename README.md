@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff00cc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thalía+Oliveira;I'm+21+years+old;I+from+Brasil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff00cc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thalía+Oliveira;I'm+22+years+old;I+from+Brasil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <h3 align="left">Citação favorita:</h3>
 <p>Acerte em tudo que puder acertar.Mas não se torture com seus erros-Paulo coelho</p>
 
