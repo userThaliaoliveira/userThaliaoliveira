@@ -25,7 +25,7 @@
 ---
 
 ## 📖 Sobre Mim
-**Thalía Oliveira** é uma desenvolvedora de 22 anos que acredita que o código deve ser tão bonito por dentro quanto é por fora. Com sólida atuação em **Angular** e **React**, foco em operacionalizar aplicações através de:
+**Thalía Oliveira** é uma desenvolvedora de 24 anos que acredita que o código deve ser tão bonito por dentro quanto é por fora. Com sólida atuação em **Angular** e **React**, foco em operacionalizar aplicações através de:
 
 * ✨ **Interfaces Encantadoras:** Criação de UIs que priorizam a experiência do usuário e o visual "clean".
 * 🚀 **Código de Performance:** Desenvolvimento focado em escalabilidade e componentização utilizando Frameworks modernos.
