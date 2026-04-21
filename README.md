@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠️ Arsenal Tecnológico (Destaque em Angular & React)
+## 🛠️ Arsenal Tecnológico
 Utilizo as ferramentas mais modernas do mercado para garantir que cada projeto seja único e potente:
 
 <p align="center">
